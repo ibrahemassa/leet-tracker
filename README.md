@@ -19,11 +19,11 @@ Leet Tracker is a MVC and microservices-based web application that helps you tra
 ## 🖼️ Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](https://raw.githubusercontent.com/ibrahemassa/leet-tracker/main/docs/dashboard.png)
+![Dashboard Screenshot](https://github.com/ibrahemassa/leet-tracker/blob/master/media/dashboard.png)
 *Track your LeetCode progress and performance at a glance.*
 
 ### Problems Page
-![Problems Screenshot](https://raw.githubusercontent.com/ibrahemassa/leet-tracker/main/docs/problems.png)
+![Problems Screenshot](https://github.com/ibrahemassa/leet-tracker/blob/master/media/problems.png)
 *Manage your coding problems, filter by status, difficulty, and tags, and view or add solutions.*
 
 ---
