@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# PHP/Laravel
+/vendor
+.env
+
+# Go
+bin/
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.zip
+*.odp
+
+**/.git_old
+READMEa.md
